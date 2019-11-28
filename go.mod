@@ -29,5 +29,3 @@ require (
 	go.opencensus.io v0.22.0 // indirect
 	golang.org/x/crypto v0.0.0-20190605123033-f99c8df09eb5 // indirect
 )
-
-replace github.com/dgraph-io/badger => github.com/dgraph-io/badger v2.0.0
