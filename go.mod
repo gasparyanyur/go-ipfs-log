@@ -30,4 +30,4 @@ require (
 	golang.org/x/crypto v0.0.0-20190605123033-f99c8df09eb5 // indirect
 )
 
-replace github.com/dgraph-io/badger => github.com/dgraph-io/badger v0.0.0-20190809121831-9d7b751e85c9
+replace github.com/dgraph-io/badger => github.com/dgraph-io/badger v2.0.0
