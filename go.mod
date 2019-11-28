@@ -1,4 +1,4 @@
-module gasparyanyur/go-ipfs-log
+module github.com/gasparyanyur/go-ipfs-log
 
 go 1.12
 
