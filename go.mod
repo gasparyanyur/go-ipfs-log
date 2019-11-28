@@ -1,4 +1,4 @@
-module berty.tech/go-ipfs-log
+module gasparyanyur/go-ipfs-log
 
 go 1.12
 
